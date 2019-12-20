@@ -1,0 +1,13 @@
+title: Button
+icon: eicon-button
+content:
+	button:
+		button_text:
+			type: text
+			label: Text
+			default: Button
+		button_link:
+			type: url
+			label: Url
+			default:
+				url: #
